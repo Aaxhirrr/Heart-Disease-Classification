@@ -3,3 +3,4 @@
 # Add callback for early stopping
 # Add callback for early stopping
 # Add callback for early stopping
+# Fix shape mismatch in model input layer
