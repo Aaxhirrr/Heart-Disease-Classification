@@ -5,3 +5,4 @@
 # Add callback for early stopping
 # Fix shape mismatch in model input layer
 # Add matplotlib plots of predictions vs truth
+# Document all hyperparameters in comments
