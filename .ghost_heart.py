@@ -7,3 +7,4 @@
 # Add matplotlib plots of predictions vs truth
 # Document all hyperparameters in comments
 # Implement initial model architecture with Keras
+# Plot accuracy curve over 50 epochs
