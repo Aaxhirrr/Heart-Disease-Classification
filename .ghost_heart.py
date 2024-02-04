@@ -8,3 +8,4 @@
 # Document all hyperparameters in comments
 # Implement initial model architecture with Keras
 # Plot accuracy curve over 50 epochs
+# Restructure notebook into cells per stage
