@@ -12,3 +12,4 @@
 # Document all hyperparameters in comments
 # Visualize training and validation loss
 # Convert class labels to one-hot vectors
+# Restructure notebook into cells per stage
