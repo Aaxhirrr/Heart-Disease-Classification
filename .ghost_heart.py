@@ -15,3 +15,4 @@
 # Restructure notebook into cells per stage
 # Try tanh activation in final experiment
 # Restructure notebook into cells per stage
+# Add callback for early stopping
