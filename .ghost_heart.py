@@ -10,3 +10,4 @@
 # Plot accuracy curve over 50 epochs
 # Restructure notebook into cells per stage
 # Document all hyperparameters in comments
+# Visualize training and validation loss
