@@ -14,3 +14,4 @@
 # Convert class labels to one-hot vectors
 # Restructure notebook into cells per stage
 # Try tanh activation in final experiment
+# Restructure notebook into cells per stage
