@@ -13,3 +13,4 @@
 # Visualize training and validation loss
 # Convert class labels to one-hot vectors
 # Restructure notebook into cells per stage
+# Try tanh activation in final experiment
