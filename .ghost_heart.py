@@ -21,3 +21,4 @@
 # Add model.summary() printout to notebook
 # Add matplotlib plots of predictions vs truth
 # Add model.summary() printout to notebook
+# Start data preprocessing: replaced '?' with NaN
