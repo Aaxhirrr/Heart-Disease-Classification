@@ -26,3 +26,4 @@
 # Convert class labels to one-hot vectors
 # Evaluate final accuracy on test set
 # Clean up unused imports
+# Update evaluation metrics in output logs
