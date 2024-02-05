@@ -20,3 +20,4 @@
 # Evaluate final accuracy on test set
 # Add model.summary() printout to notebook
 # Add matplotlib plots of predictions vs truth
+# Add model.summary() printout to notebook
