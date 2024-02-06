@@ -28,3 +28,4 @@
 # Clean up unused imports
 # Update evaluation metrics in output logs
 # Try dropout layer for regularization
+# Switch loss function to categorical crossentropy
