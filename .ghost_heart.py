@@ -18,3 +18,4 @@
 # Add callback for early stopping
 # Add model.summary() printout to notebook
 # Evaluate final accuracy on test set
+# Add model.summary() printout to notebook
