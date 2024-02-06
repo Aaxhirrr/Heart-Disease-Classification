@@ -27,3 +27,4 @@
 # Evaluate final accuracy on test set
 # Clean up unused imports
 # Update evaluation metrics in output logs
+# Try dropout layer for regularization
