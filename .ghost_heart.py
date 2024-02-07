@@ -34,3 +34,4 @@
 # Try dropout layer for regularization
 # Restructure notebook into cells per stage
 # Tune ReLU activation in second dense layer
+# Drop NaN rows and re-index DataFrame
