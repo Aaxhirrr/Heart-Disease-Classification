@@ -31,3 +31,4 @@
 # Switch loss function to categorical crossentropy
 # Add model checkpoint saving
 # Fix batch size for consistent training
+# Try dropout layer for regularization
