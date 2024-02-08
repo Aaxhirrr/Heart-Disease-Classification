@@ -36,3 +36,4 @@
 # Tune ReLU activation in second dense layer
 # Drop NaN rows and re-index DataFrame
 # Restructure notebook into cells per stage
+# Tune hidden layer units: 128 → 64
