@@ -38,3 +38,4 @@
 # Restructure notebook into cells per stage
 # Tune hidden layer units: 128 → 64
 # Fix bug in label encoding logic
+# Add model checkpoint saving
