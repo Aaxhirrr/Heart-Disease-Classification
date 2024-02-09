@@ -42,3 +42,4 @@
 # Fix bug in label encoding logic
 # Document all hyperparameters in comments
 # Try dropout layer for regularization
+# Update evaluation metrics in output logs
