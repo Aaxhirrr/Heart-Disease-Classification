@@ -44,3 +44,4 @@
 # Try dropout layer for regularization
 # Update evaluation metrics in output logs
 # Add classification report using sklearn
+# Add model checkpoint saving
