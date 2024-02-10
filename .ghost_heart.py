@@ -45,3 +45,4 @@
 # Update evaluation metrics in output logs
 # Add classification report using sklearn
 # Add model checkpoint saving
+# Split dataset into train, val, test sets (70/20/10)
