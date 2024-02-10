@@ -49,3 +49,4 @@
 # Add model.summary() printout to notebook
 # Restructure notebook into cells per stage
 # Try tanh activation in final experiment
+# Tune ReLU activation in second dense layer
