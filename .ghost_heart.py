@@ -46,3 +46,4 @@
 # Add classification report using sklearn
 # Add model checkpoint saving
 # Split dataset into train, val, test sets (70/20/10)
+# Add model.summary() printout to notebook
