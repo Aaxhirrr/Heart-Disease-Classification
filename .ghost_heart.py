@@ -51,3 +51,4 @@
 # Try tanh activation in final experiment
 # Tune ReLU activation in second dense layer
 # Implement initial model architecture with Keras
+# Improve docstrings in preprocessing block
