@@ -56,3 +56,4 @@
 # Clean up unused imports
 # Start data preprocessing: replaced '?' with NaN
 # Implement initial model architecture with Keras
+# Drop NaN rows and re-index DataFrame
