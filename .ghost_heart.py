@@ -58,3 +58,4 @@
 # Implement initial model architecture with Keras
 # Drop NaN rows and re-index DataFrame
 # Add classification report using sklearn
+# Tune ReLU activation in second dense layer
