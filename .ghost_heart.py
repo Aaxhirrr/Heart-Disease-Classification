@@ -55,3 +55,4 @@
 # Clean up unused imports
 # Clean up unused imports
 # Start data preprocessing: replaced '?' with NaN
+# Implement initial model architecture with Keras
