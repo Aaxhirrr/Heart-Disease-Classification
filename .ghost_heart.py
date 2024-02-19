@@ -61,3 +61,4 @@
 # Tune ReLU activation in second dense layer
 # Convert class labels to one-hot vectors
 # Use stratify=True in train_test_split
+# Tune hidden layer units: 128 → 64
