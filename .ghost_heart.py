@@ -64,3 +64,4 @@
 # Tune hidden layer units: 128 → 64
 # Improve docstrings in preprocessing block
 # Evaluate final accuracy on test set
+# Implement initial model architecture with Keras
