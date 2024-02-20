@@ -59,3 +59,4 @@
 # Drop NaN rows and re-index DataFrame
 # Add classification report using sklearn
 # Tune ReLU activation in second dense layer
+# Convert class labels to one-hot vectors
