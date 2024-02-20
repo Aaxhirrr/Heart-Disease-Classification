@@ -63,3 +63,4 @@
 # Use stratify=True in train_test_split
 # Tune hidden layer units: 128 → 64
 # Improve docstrings in preprocessing block
+# Evaluate final accuracy on test set
