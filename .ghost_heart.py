@@ -66,3 +66,4 @@
 # Evaluate final accuracy on test set
 # Implement initial model architecture with Keras
 # Drop NaN rows and re-index DataFrame
+# Add model.summary() printout to notebook
