@@ -68,3 +68,4 @@
 # Drop NaN rows and re-index DataFrame
 # Add model.summary() printout to notebook
 # Update evaluation metrics in output logs
+# Fix bug in label encoding logic
