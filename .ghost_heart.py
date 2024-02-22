@@ -69,3 +69,4 @@
 # Add model.summary() printout to notebook
 # Update evaluation metrics in output logs
 # Fix bug in label encoding logic
+# Evaluate final accuracy on test set
