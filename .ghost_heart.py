@@ -67,3 +67,4 @@
 # Implement initial model architecture with Keras
 # Drop NaN rows and re-index DataFrame
 # Add model.summary() printout to notebook
+# Update evaluation metrics in output logs
