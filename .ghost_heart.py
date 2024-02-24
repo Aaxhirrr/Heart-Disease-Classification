@@ -74,3 +74,4 @@
 # Retrain with early stopping on val_loss
 # Try dropout layer for regularization
 # Document all hyperparameters in comments
+# Start data preprocessing: replaced '?' with NaN
