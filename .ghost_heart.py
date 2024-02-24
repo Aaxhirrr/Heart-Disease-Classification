@@ -73,3 +73,4 @@
 # Convert class labels to one-hot vectors
 # Retrain with early stopping on val_loss
 # Try dropout layer for regularization
+# Document all hyperparameters in comments
