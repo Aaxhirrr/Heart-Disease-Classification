@@ -79,3 +79,4 @@
 # Convert class labels to one-hot vectors
 # Improve docstrings in preprocessing block
 # Tune ReLU activation in second dense layer
+# Switch loss function to categorical crossentropy
