@@ -72,3 +72,4 @@
 # Evaluate final accuracy on test set
 # Convert class labels to one-hot vectors
 # Retrain with early stopping on val_loss
+# Try dropout layer for regularization
