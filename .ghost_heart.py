@@ -75,3 +75,4 @@
 # Try dropout layer for regularization
 # Document all hyperparameters in comments
 # Start data preprocessing: replaced '?' with NaN
+# Plot accuracy curve over 50 epochs
