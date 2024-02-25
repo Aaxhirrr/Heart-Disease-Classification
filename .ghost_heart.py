@@ -81,3 +81,4 @@
 # Tune ReLU activation in second dense layer
 # Switch loss function to categorical crossentropy
 # Fix batch size for consistent training
+# Add classification report using sklearn
