@@ -82,3 +82,4 @@
 # Switch loss function to categorical crossentropy
 # Fix batch size for consistent training
 # Add classification report using sklearn
+# Add callback for early stopping
