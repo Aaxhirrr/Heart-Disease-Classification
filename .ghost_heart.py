@@ -83,3 +83,4 @@
 # Fix batch size for consistent training
 # Add classification report using sklearn
 # Add callback for early stopping
+# Add matplotlib plots of predictions vs truth
