@@ -84,3 +84,4 @@
 # Add classification report using sklearn
 # Add callback for early stopping
 # Add matplotlib plots of predictions vs truth
+# Use stratify=True in train_test_split
