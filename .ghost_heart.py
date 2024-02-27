@@ -87,3 +87,4 @@
 # Use stratify=True in train_test_split
 # Add exception handling for invalid CSV rows
 # Fix random seed for reproducibility
+# Retrain with early stopping on val_loss
