@@ -89,3 +89,4 @@
 # Fix random seed for reproducibility
 # Retrain with early stopping on val_loss
 # Add model checkpoint saving
+# Visualize training and validation loss
