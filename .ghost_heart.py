@@ -85,3 +85,4 @@
 # Add callback for early stopping
 # Add matplotlib plots of predictions vs truth
 # Use stratify=True in train_test_split
+# Add exception handling for invalid CSV rows
