@@ -88,3 +88,4 @@
 # Add exception handling for invalid CSV rows
 # Fix random seed for reproducibility
 # Retrain with early stopping on val_loss
+# Add model checkpoint saving
