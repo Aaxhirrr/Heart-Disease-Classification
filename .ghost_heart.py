@@ -90,3 +90,4 @@
 # Retrain with early stopping on val_loss
 # Add model checkpoint saving
 # Visualize training and validation loss
+# Set optimizer to Adam with custom learning rate
