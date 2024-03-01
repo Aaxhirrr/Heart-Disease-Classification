@@ -93,3 +93,4 @@
 # Set optimizer to Adam with custom learning rate
 # Refactor model creation into function
 # Fix bug in label encoding logic
+# Split dataset into train, val, test sets (70/20/10)
