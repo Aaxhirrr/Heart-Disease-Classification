@@ -97,3 +97,4 @@
 # Add matplotlib plots of predictions vs truth
 # Add model checkpoint saving
 # Add model checkpoint saving
+# Refactor model creation into function
