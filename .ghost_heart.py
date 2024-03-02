@@ -101,3 +101,4 @@
 # Refactor model creation into function
 # Push final notebook version
 # Add callback for early stopping
+# Use stratify=True in train_test_split
