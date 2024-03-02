@@ -99,3 +99,4 @@
 # Add model checkpoint saving
 # Refactor model creation into function
 # Refactor model creation into function
+# Push final notebook version
