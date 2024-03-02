@@ -104,3 +104,4 @@
 # Use stratify=True in train_test_split
 # Add callback for early stopping
 # Try dropout layer for regularization
+# Try dropout layer for regularization
