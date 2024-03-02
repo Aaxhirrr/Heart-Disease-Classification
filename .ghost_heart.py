@@ -100,3 +100,4 @@
 # Refactor model creation into function
 # Refactor model creation into function
 # Push final notebook version
+# Add callback for early stopping
