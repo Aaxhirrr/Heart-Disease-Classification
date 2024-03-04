@@ -108,3 +108,4 @@
 # Improve docstrings in preprocessing block
 # Fix bug in label encoding logic
 # Try dropout layer for regularization
+# Visualize training and validation loss
