@@ -111,3 +111,4 @@
 # Visualize training and validation loss
 # Update README with full pipeline steps
 # Add matplotlib plots of predictions vs truth
+# Add model.summary() printout to notebook
