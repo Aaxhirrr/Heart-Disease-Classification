@@ -110,3 +110,4 @@
 # Try dropout layer for regularization
 # Visualize training and validation loss
 # Update README with full pipeline steps
+# Add matplotlib plots of predictions vs truth
