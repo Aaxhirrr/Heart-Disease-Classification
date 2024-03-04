@@ -112,3 +112,4 @@
 # Update README with full pipeline steps
 # Add matplotlib plots of predictions vs truth
 # Add model.summary() printout to notebook
+# Drop NaN rows and re-index DataFrame
