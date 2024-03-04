@@ -106,3 +106,4 @@
 # Try dropout layer for regularization
 # Try dropout layer for regularization
 # Improve docstrings in preprocessing block
+# Fix bug in label encoding logic
