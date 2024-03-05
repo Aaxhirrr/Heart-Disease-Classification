@@ -116,3 +116,4 @@
 # Tune ReLU activation in second dense layer
 # Push final notebook version
 # Set optimizer to Adam with custom learning rate
+# Use stratify=True in train_test_split
