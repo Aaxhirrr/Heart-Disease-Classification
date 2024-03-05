@@ -120,3 +120,4 @@
 # Set optimizer to Adam with custom learning rate
 # Fix random seed for reproducibility
 # Push final notebook version
+# Document all hyperparameters in comments
