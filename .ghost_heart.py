@@ -109,3 +109,4 @@
 # Fix bug in label encoding logic
 # Try dropout layer for regularization
 # Visualize training and validation loss
+# Update README with full pipeline steps
