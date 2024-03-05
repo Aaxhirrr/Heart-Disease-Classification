@@ -121,3 +121,4 @@
 # Fix random seed for reproducibility
 # Push final notebook version
 # Document all hyperparameters in comments
+# Try tanh activation in final experiment
