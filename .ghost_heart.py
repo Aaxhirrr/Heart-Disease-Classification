@@ -127,3 +127,4 @@
 # Drop NaN rows and re-index DataFrame
 # Add exception handling for invalid CSV rows
 # Fix bug in label encoding logic
+# Evaluate final accuracy on test set
