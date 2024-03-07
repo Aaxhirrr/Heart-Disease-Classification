@@ -125,3 +125,4 @@
 # Tune ReLU activation in second dense layer
 # Update evaluation metrics in output logs
 # Drop NaN rows and re-index DataFrame
+# Add exception handling for invalid CSV rows
