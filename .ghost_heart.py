@@ -122,3 +122,4 @@
 # Push final notebook version
 # Document all hyperparameters in comments
 # Try tanh activation in final experiment
+# Tune ReLU activation in second dense layer
