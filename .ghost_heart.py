@@ -123,3 +123,4 @@
 # Document all hyperparameters in comments
 # Try tanh activation in final experiment
 # Tune ReLU activation in second dense layer
+# Update evaluation metrics in output logs
