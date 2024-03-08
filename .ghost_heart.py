@@ -134,3 +134,4 @@
 # Add classification report using sklearn
 # Restructure notebook into cells per stage
 # Add model.summary() printout to notebook
+# Update README with full pipeline steps
