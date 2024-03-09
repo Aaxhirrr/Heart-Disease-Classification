@@ -139,3 +139,4 @@
 # Plot accuracy curve over 50 epochs
 # Restructure notebook into cells per stage
 # Try dropout layer for regularization
+# Set optimizer to Adam with custom learning rate
