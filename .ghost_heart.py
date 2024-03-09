@@ -137,3 +137,4 @@
 # Update README with full pipeline steps
 # Refactor model creation into function
 # Plot accuracy curve over 50 epochs
+# Restructure notebook into cells per stage
