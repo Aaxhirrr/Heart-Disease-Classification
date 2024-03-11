@@ -144,3 +144,4 @@
 # Set optimizer to Adam with custom learning rate
 # Add model.summary() printout to notebook
 # Tune hidden layer units: 128 → 64
+# Drop NaN rows and re-index DataFrame
