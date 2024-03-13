@@ -146,3 +146,4 @@
 # Tune hidden layer units: 128 → 64
 # Drop NaN rows and re-index DataFrame
 # Switch loss function to categorical crossentropy
+# Set optimizer to Adam with custom learning rate
