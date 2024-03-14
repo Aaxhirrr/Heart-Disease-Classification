@@ -148,3 +148,4 @@
 # Switch loss function to categorical crossentropy
 # Set optimizer to Adam with custom learning rate
 # Update evaluation metrics in output logs
+# Add callback for early stopping
