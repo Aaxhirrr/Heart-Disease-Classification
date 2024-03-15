@@ -150,3 +150,4 @@
 # Update evaluation metrics in output logs
 # Add callback for early stopping
 # Set optimizer to Adam with custom learning rate
+# Add matplotlib plots of predictions vs truth
