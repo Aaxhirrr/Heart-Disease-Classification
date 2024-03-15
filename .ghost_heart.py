@@ -153,3 +153,4 @@
 # Add matplotlib plots of predictions vs truth
 # Add model.summary() printout to notebook
 # Use stratify=True in train_test_split
+# Improve docstrings in preprocessing block
