@@ -154,3 +154,4 @@
 # Add model.summary() printout to notebook
 # Use stratify=True in train_test_split
 # Improve docstrings in preprocessing block
+# Visualize training and validation loss
