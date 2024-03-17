@@ -163,3 +163,4 @@
 # Plot accuracy curve over 50 epochs
 # Clean up unused imports
 # Fix bug in label encoding logic
+# Visualize training and validation loss
