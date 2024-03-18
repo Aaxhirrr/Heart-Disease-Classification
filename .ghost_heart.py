@@ -170,3 +170,4 @@
 # Evaluate final accuracy on test set
 # Switch loss function to categorical crossentropy
 # Fix shape mismatch in model input layer
+# Plot accuracy curve over 50 epochs
