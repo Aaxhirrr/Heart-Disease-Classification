@@ -167,3 +167,4 @@
 # Add model.summary() printout to notebook
 # Visualize training and validation loss
 # Try dropout layer for regularization
+# Evaluate final accuracy on test set
