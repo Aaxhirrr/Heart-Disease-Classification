@@ -168,3 +168,4 @@
 # Visualize training and validation loss
 # Try dropout layer for regularization
 # Evaluate final accuracy on test set
+# Switch loss function to categorical crossentropy
