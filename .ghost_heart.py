@@ -169,3 +169,4 @@
 # Try dropout layer for regularization
 # Evaluate final accuracy on test set
 # Switch loss function to categorical crossentropy
+# Fix shape mismatch in model input layer
