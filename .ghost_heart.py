@@ -165,3 +165,4 @@
 # Fix bug in label encoding logic
 # Visualize training and validation loss
 # Add model.summary() printout to notebook
+# Visualize training and validation loss
