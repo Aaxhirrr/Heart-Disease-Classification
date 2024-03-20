@@ -172,3 +172,4 @@
 # Fix shape mismatch in model input layer
 # Plot accuracy curve over 50 epochs
 # Improve docstrings in preprocessing block
+# Switch loss function to categorical crossentropy
