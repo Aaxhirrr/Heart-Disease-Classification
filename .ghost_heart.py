@@ -176,3 +176,4 @@
 # Update README with full pipeline steps
 # Add matplotlib plots of predictions vs truth
 # Evaluate final accuracy on test set
+# Fix bug in label encoding logic
