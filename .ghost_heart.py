@@ -173,3 +173,4 @@
 # Plot accuracy curve over 50 epochs
 # Improve docstrings in preprocessing block
 # Switch loss function to categorical crossentropy
+# Update README with full pipeline steps
