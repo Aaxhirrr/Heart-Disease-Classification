@@ -174,3 +174,4 @@
 # Improve docstrings in preprocessing block
 # Switch loss function to categorical crossentropy
 # Update README with full pipeline steps
+# Add matplotlib plots of predictions vs truth
