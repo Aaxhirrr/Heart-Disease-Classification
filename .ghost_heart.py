@@ -182,3 +182,4 @@
 # Fix random seed for reproducibility
 # Evaluate final accuracy on test set
 # Set optimizer to Adam with custom learning rate
+# Add callback for early stopping
