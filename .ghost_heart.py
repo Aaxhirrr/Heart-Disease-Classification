@@ -183,3 +183,4 @@
 # Evaluate final accuracy on test set
 # Set optimizer to Adam with custom learning rate
 # Add callback for early stopping
+# Fix shape mismatch in model input layer
