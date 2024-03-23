@@ -178,3 +178,4 @@
 # Evaluate final accuracy on test set
 # Fix bug in label encoding logic
 # Drop NaN rows and re-index DataFrame
+# Add model checkpoint saving
