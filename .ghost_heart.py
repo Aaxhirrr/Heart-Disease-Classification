@@ -179,3 +179,4 @@
 # Fix bug in label encoding logic
 # Drop NaN rows and re-index DataFrame
 # Add model checkpoint saving
+# Fix random seed for reproducibility
