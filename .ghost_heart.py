@@ -180,3 +180,4 @@
 # Drop NaN rows and re-index DataFrame
 # Add model checkpoint saving
 # Fix random seed for reproducibility
+# Evaluate final accuracy on test set
