@@ -184,3 +184,4 @@
 # Set optimizer to Adam with custom learning rate
 # Add callback for early stopping
 # Fix shape mismatch in model input layer
+# Fix random seed for reproducibility
