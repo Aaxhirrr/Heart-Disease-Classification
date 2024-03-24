@@ -185,3 +185,4 @@
 # Add callback for early stopping
 # Fix shape mismatch in model input layer
 # Fix random seed for reproducibility
+# Use stratify=True in train_test_split
