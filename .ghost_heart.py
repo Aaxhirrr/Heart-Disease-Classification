@@ -189,3 +189,4 @@
 # Add exception handling for invalid CSV rows
 # Fix random seed for reproducibility
 # Update evaluation metrics in output logs
+# Add exception handling for invalid CSV rows
