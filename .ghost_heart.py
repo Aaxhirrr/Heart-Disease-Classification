@@ -191,3 +191,4 @@
 # Update evaluation metrics in output logs
 # Add exception handling for invalid CSV rows
 # Fix shape mismatch in model input layer
+# Use stratify=True in train_test_split
