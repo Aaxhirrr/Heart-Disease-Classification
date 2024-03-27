@@ -202,3 +202,4 @@
 # Plot accuracy curve over 50 epochs
 # Use stratify=True in train_test_split
 # Use stratify=True in train_test_split
+# Convert class labels to one-hot vectors
