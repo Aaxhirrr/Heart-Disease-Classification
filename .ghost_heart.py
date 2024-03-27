@@ -200,3 +200,4 @@
 # Visualize training and validation loss
 # Add exception handling for invalid CSV rows
 # Plot accuracy curve over 50 epochs
+# Use stratify=True in train_test_split
