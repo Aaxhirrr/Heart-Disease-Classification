@@ -197,3 +197,4 @@
 # Update evaluation metrics in output logs
 # Try tanh activation in final experiment
 # Tune ReLU activation in second dense layer
+# Visualize training and validation loss
