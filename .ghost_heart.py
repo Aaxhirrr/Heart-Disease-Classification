@@ -196,3 +196,4 @@
 # Fix bug in label encoding logic
 # Update evaluation metrics in output logs
 # Try tanh activation in final experiment
+# Tune ReLU activation in second dense layer
