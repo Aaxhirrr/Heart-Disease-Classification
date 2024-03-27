@@ -199,3 +199,4 @@
 # Tune ReLU activation in second dense layer
 # Visualize training and validation loss
 # Add exception handling for invalid CSV rows
+# Plot accuracy curve over 50 epochs
