@@ -211,3 +211,4 @@
 # Convert class labels to one-hot vectors
 # Try dropout layer for regularization
 # Push final notebook version
+# Set optimizer to Adam with custom learning rate
