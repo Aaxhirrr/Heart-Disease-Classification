@@ -205,3 +205,4 @@
 # Convert class labels to one-hot vectors
 # Evaluate final accuracy on test set
 # Improve docstrings in preprocessing block
+# Add model checkpoint saving
