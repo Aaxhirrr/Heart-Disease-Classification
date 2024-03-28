@@ -206,3 +206,4 @@
 # Evaluate final accuracy on test set
 # Improve docstrings in preprocessing block
 # Add model checkpoint saving
+# Fix shape mismatch in model input layer
