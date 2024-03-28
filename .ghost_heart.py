@@ -208,3 +208,4 @@
 # Add model checkpoint saving
 # Fix shape mismatch in model input layer
 # Clean up unused imports
+# Convert class labels to one-hot vectors
