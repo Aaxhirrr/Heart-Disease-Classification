@@ -214,3 +214,4 @@
 # Set optimizer to Adam with custom learning rate
 # Add model.summary() printout to notebook
 # Add model.summary() printout to notebook
+# Fix random seed for reproducibility
