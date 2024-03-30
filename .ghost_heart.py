@@ -215,3 +215,4 @@
 # Add model.summary() printout to notebook
 # Add model.summary() printout to notebook
 # Fix random seed for reproducibility
+# Start data preprocessing: replaced '?' with NaN
