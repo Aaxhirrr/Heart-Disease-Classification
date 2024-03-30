@@ -212,3 +212,4 @@
 # Try dropout layer for regularization
 # Push final notebook version
 # Set optimizer to Adam with custom learning rate
+# Add model.summary() printout to notebook
