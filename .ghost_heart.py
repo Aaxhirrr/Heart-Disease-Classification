@@ -223,3 +223,4 @@
 # Clean up unused imports
 # Drop NaN rows and re-index DataFrame
 # Refactor model creation into function
+# Evaluate final accuracy on test set
