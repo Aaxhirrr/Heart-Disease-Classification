@@ -226,3 +226,4 @@
 # Evaluate final accuracy on test set
 # Fix bug in label encoding logic
 # Try dropout layer for regularization
+# Add model.summary() printout to notebook
