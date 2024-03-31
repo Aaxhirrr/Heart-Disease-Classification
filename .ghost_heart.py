@@ -222,3 +222,4 @@
 # Update evaluation metrics in output logs
 # Clean up unused imports
 # Drop NaN rows and re-index DataFrame
+# Refactor model creation into function
