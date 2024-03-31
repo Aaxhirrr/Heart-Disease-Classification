@@ -217,3 +217,4 @@
 # Fix random seed for reproducibility
 # Start data preprocessing: replaced '?' with NaN
 # Update evaluation metrics in output logs
+# Add exception handling for invalid CSV rows
