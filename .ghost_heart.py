@@ -225,3 +225,4 @@
 # Refactor model creation into function
 # Evaluate final accuracy on test set
 # Fix bug in label encoding logic
+# Try dropout layer for regularization
