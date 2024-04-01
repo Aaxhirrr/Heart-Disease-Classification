@@ -227,3 +227,4 @@
 # Fix bug in label encoding logic
 # Try dropout layer for regularization
 # Add model.summary() printout to notebook
+# Tune hidden layer units: 128 → 64
