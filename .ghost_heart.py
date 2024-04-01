@@ -229,3 +229,4 @@
 # Add model.summary() printout to notebook
 # Tune hidden layer units: 128 → 64
 # Improve docstrings in preprocessing block
+# Implement initial model architecture with Keras
