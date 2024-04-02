@@ -230,3 +230,4 @@
 # Tune hidden layer units: 128 → 64
 # Improve docstrings in preprocessing block
 # Implement initial model architecture with Keras
+# Plot accuracy curve over 50 epochs
