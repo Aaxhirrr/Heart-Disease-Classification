@@ -233,3 +233,4 @@
 # Plot accuracy curve over 50 epochs
 # Add model.summary() printout to notebook
 # Try dropout layer for regularization
+# Convert class labels to one-hot vectors
