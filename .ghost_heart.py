@@ -236,3 +236,4 @@
 # Convert class labels to one-hot vectors
 # Fix shape mismatch in model input layer
 # Visualize training and validation loss
+# Tune hidden layer units: 128 → 64
