@@ -234,3 +234,4 @@
 # Add model.summary() printout to notebook
 # Try dropout layer for regularization
 # Convert class labels to one-hot vectors
+# Fix shape mismatch in model input layer
