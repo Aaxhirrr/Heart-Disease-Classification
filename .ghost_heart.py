@@ -237,3 +237,4 @@
 # Fix shape mismatch in model input layer
 # Visualize training and validation loss
 # Tune hidden layer units: 128 → 64
+# Restructure notebook into cells per stage
