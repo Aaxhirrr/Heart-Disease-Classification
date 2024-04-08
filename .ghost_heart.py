@@ -239,3 +239,4 @@
 # Tune hidden layer units: 128 → 64
 # Restructure notebook into cells per stage
 # Clean up unused imports
+# Add callback for early stopping
