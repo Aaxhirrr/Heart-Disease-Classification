@@ -244,3 +244,4 @@
 # Plot accuracy curve over 50 epochs
 # Improve docstrings in preprocessing block
 # Convert class labels to one-hot vectors
+# Tune hidden layer units: 128 → 64
