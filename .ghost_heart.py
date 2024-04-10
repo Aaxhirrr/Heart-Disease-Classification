@@ -242,3 +242,4 @@
 # Add callback for early stopping
 # Visualize training and validation loss
 # Plot accuracy curve over 50 epochs
+# Improve docstrings in preprocessing block
