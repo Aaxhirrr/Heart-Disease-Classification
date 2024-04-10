@@ -249,3 +249,4 @@
 # Add classification report using sklearn
 # Try tanh activation in final experiment
 # Add classification report using sklearn
+# Fix batch size for consistent training
