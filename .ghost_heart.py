@@ -240,3 +240,4 @@
 # Restructure notebook into cells per stage
 # Clean up unused imports
 # Add callback for early stopping
+# Visualize training and validation loss
