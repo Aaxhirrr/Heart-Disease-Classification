@@ -248,3 +248,4 @@
 # Switch loss function to categorical crossentropy
 # Add classification report using sklearn
 # Try tanh activation in final experiment
+# Add classification report using sklearn
