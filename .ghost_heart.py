@@ -253,3 +253,4 @@
 # Drop NaN rows and re-index DataFrame
 # Tune hidden layer units: 128 → 64
 # Push final notebook version
+# Visualize training and validation loss
