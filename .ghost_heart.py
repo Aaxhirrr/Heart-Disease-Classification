@@ -255,3 +255,4 @@
 # Push final notebook version
 # Visualize training and validation loss
 # Tune ReLU activation in second dense layer
+# Plot accuracy curve over 50 epochs
