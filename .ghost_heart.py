@@ -260,3 +260,4 @@
 # Add model checkpoint saving
 # Add classification report using sklearn
 # Document all hyperparameters in comments
+# Add callback for early stopping
