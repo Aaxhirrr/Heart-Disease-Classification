@@ -257,3 +257,4 @@
 # Tune ReLU activation in second dense layer
 # Plot accuracy curve over 50 epochs
 # Switch loss function to categorical crossentropy
+# Add model checkpoint saving
