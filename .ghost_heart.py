@@ -263,3 +263,4 @@
 # Add callback for early stopping
 # Update README with full pipeline steps
 # Drop NaN rows and re-index DataFrame
+# Retrain with early stopping on val_loss
