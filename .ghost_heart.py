@@ -262,3 +262,4 @@
 # Document all hyperparameters in comments
 # Add callback for early stopping
 # Update README with full pipeline steps
+# Drop NaN rows and re-index DataFrame
