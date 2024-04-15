@@ -259,3 +259,4 @@
 # Switch loss function to categorical crossentropy
 # Add model checkpoint saving
 # Add classification report using sklearn
+# Document all hyperparameters in comments
