@@ -274,3 +274,4 @@
 # Restructure notebook into cells per stage
 # Restructure notebook into cells per stage
 # Refactor model creation into function
+# Update README with full pipeline steps
