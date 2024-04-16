@@ -271,3 +271,4 @@
 # Refactor model creation into function
 # Refactor model creation into function
 # Try tanh activation in final experiment
+# Restructure notebook into cells per stage
