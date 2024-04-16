@@ -266,3 +266,4 @@
 # Retrain with early stopping on val_loss
 # Fix batch size for consistent training
 # Push final notebook version
+# Fix random seed for reproducibility
