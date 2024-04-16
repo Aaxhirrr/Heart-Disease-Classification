@@ -270,3 +270,4 @@
 # Fix random seed for reproducibility
 # Refactor model creation into function
 # Refactor model creation into function
+# Try tanh activation in final experiment
