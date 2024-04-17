@@ -275,3 +275,4 @@
 # Restructure notebook into cells per stage
 # Refactor model creation into function
 # Update README with full pipeline steps
+# Visualize training and validation loss
