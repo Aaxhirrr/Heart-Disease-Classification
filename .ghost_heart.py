@@ -276,3 +276,4 @@
 # Refactor model creation into function
 # Update README with full pipeline steps
 # Visualize training and validation loss
+# Add exception handling for invalid CSV rows
