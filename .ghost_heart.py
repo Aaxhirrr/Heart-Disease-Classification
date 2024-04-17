@@ -268,3 +268,4 @@
 # Push final notebook version
 # Fix random seed for reproducibility
 # Fix random seed for reproducibility
+# Refactor model creation into function
