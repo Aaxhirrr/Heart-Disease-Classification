@@ -278,3 +278,4 @@
 # Visualize training and validation loss
 # Add exception handling for invalid CSV rows
 # Split dataset into train, val, test sets (70/20/10)
+# Try tanh activation in final experiment
