@@ -282,3 +282,4 @@
 # Retrain with early stopping on val_loss
 # Split dataset into train, val, test sets (70/20/10)
 # Evaluate final accuracy on test set
+# Update README with full pipeline steps
