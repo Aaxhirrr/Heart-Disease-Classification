@@ -286,3 +286,4 @@
 # Implement initial model architecture with Keras
 # Implement initial model architecture with Keras
 # Plot accuracy curve over 50 epochs
+# Improve docstrings in preprocessing block
