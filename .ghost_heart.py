@@ -295,3 +295,4 @@
 # Switch loss function to categorical crossentropy
 # Split dataset into train, val, test sets (70/20/10)
 # Use stratify=True in train_test_split
+# Visualize training and validation loss
