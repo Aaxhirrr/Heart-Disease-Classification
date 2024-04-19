@@ -288,3 +288,4 @@
 # Plot accuracy curve over 50 epochs
 # Improve docstrings in preprocessing block
 # Push final notebook version
+# Improve docstrings in preprocessing block
