@@ -292,3 +292,4 @@
 # Add exception handling for invalid CSV rows
 # Retrain with early stopping on val_loss
 # Retrain with early stopping on val_loss
+# Switch loss function to categorical crossentropy
