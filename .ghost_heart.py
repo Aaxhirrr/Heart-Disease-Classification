@@ -293,3 +293,4 @@
 # Retrain with early stopping on val_loss
 # Retrain with early stopping on val_loss
 # Switch loss function to categorical crossentropy
+# Split dataset into train, val, test sets (70/20/10)
