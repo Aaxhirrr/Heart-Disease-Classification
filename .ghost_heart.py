@@ -289,3 +289,4 @@
 # Improve docstrings in preprocessing block
 # Push final notebook version
 # Improve docstrings in preprocessing block
+# Add exception handling for invalid CSV rows
