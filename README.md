@@ -1,4 +1,4 @@
-# Heat Classification Project using Neural Networks
+# Heart Classification Project using Neural Networks
 
 ## Overview
 
